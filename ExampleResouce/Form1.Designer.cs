@@ -35,7 +35,6 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::ExampleResouce.Properties.Resources.p1;
             this.pictureBox1.Location = new System.Drawing.Point(266, 154);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(200, 200);
